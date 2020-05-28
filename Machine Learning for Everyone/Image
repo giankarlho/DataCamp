@@ -1,0 +1,19 @@
+Your friend just texted you an image. However, when you open the message the content seems to be distorted. No worries, you have access to a pre-trained neural network that can restore any image.
+
+Before you can pass the image to the neural network, it needs to be converted to numbers so that we have features to input. The image's resolution is 284 × 429 pixels. Remember, each color pixel is represented by three color channels (red, green, and blue).
+
+How many features will be passed into the model for this color image?
+
+
+
+You can use the R console on the right as a calculator.
+
+Possible Answers
+
+121836
+429
+365508
+
+
+> 284*429*3
+[1] 365508
