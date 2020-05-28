@@ -1,0 +1,15 @@
+In a bar you strike up a conversation with someone who turns out to be a data scientist at the self-driving car department of Tesla.
+
+They start talking about one of the deep learning models they built a while ago. It was able to classify images of vehicles as cars or trucks. You discuss the process and at the end of the conversation you have a pretty good idea of what happened.
+
+<p>Instructions
+
+Place the steps that happen inside a neural network in the right order.
+
+
+The car images are transformed numbers
+The pixel intensities are fed into a neural network
+Neurons will learn to detect edges
+Neurons will learn to more complex objects like wheels, doors, and windows
+Neurons will learn to detect shapes of vehicles
+The image is classfied as car or truck
