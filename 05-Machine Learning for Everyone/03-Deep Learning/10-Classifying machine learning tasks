@@ -1,0 +1,20 @@
+By this point, you have seen a lot of different applications of machine learning. In this chapter, two special fields were discussed: computer vision and Natural Language Processing (NLP). Deep learning is particularly well-suited to solve these kind of problems. Let's see if you can identify which use case belongs to which field.
+
+Match each task with the correct machine learning field.
+
+
+Computer vision
+
+Searching for images on Google
+Building an application that takes pictures of all the items passing on a conveyor belt and detecting any defects
+
+NLP
+
+Parsing all tweets about an artist's latest album to get a feeling for the sentiment toward it.
+Auto-complete predicting the word you are typing while texting
+Google Home undestanding that you have asked it to turn on the lights
+
+Traditional Machine Learning
+
+Predicting the temperature in New York tomorrow
+Clustering pre-parid telecom customers to identity patterns in terma of money spent in recharging, sending SMS, and browsing the internet.
