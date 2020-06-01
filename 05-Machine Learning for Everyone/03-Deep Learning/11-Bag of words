@@ -1,0 +1,11 @@
+In the field of Natural Language Processing, n-grams are a foundational way to make features from text. n-grams count the sequence of words and n indicates how many word(s) a sequence contains. For example, 2-grams, count the occurrence of two-word sequences.
+
+In this exercise, you can input text and see what are the top 1-gram, 2-gram, and 3-gram features based on occurrence. If you're not sure what to enter, try some of these restaurant reviews:
+
+The food was not great and the service could be faster.
+I've seen a lot of bad reviews about this place, but it was not that bad. You get what you pay for!
+Which of the following statements is true?
+
+3-grams contain unnecessary information and should be eliminated in effort of dimensionality reduction.
+You have to pick between 1-gram, 2-gram, and 3-gram when making your features. You can't use more than one.
+(*)As you increase the value of n, the occurrences of n-grams decreases.
